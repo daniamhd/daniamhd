@@ -1,63 +1,37 @@
 ## Salut je suis Daniati Mohamed Ahmed 👋
 
-### Bienvenue ```${tonNomEstIci.promis}```, je suis Raphaël Rollet
-
-### Je vis à Annecy en Haute-Savoie et je suis développeur web.
-
-### Pourquoi développeur web et pas astronaute ?
-
-J'ai rapidement été attiré par le développement web et j'ai peur du vide donc... 💨 (naturellement) je me suis dirigé vers le web un mélange de **programmation** et
-de **design** deux éléments qui m'intéressent **grandement.**
-
-### Etude MIT, Harvard ?
-```javascript
-const raphael = new Object();
-function God() {
-  if(raphael.diplomes > 0){
-    return console.log("I'm you'r graduate men !");
-  }
- return console.log("Sorry, i can do nothing for you.");
-}
-```
-
-**Bon, ok.. d'accord 😕, je l'avoue j'ai tout appris tout seul dans mon coin et alors ?**
-  - [x] Personne ne m'oblige à le faire et pourtant je le fais
-  - [x] Apprendre chaque jour est devenu une habitude
-  - [x] Devoir résoudre seul des problèmes est une obligation
-  - [x] Savoir effectuer des recherches
-  - [ ] Dormir en cours car le prof est en pilote automatique *(Critique facile, mais vrai)*
-  ``` 
-  Error: Too many re-renders. God limits number of
-  renders to prevent an infinite loop of stupidity.
-  ```
-
-&nbsp;
-
-## Et tu as fait quoi alors ?
-
-**J'ai développé des projets entièrement de l'élaboration de la maquette au déploiement et découvert une multitude de technologies.**<br/>
-
-En plus, comme j'ai appris par passion avec **mon temps** et **mes économies** 💳, je sais par avance que pour tous les projets professionnels 
-je suis **surmotivé** à l'idée de **créer** le projet d'une personne et de **l'aider**.<br/>
-~~Chaque jour~~, je renforce mes connaissances pour toujours aller plus loin et avancer vers mes objectifs.
-```js
-function GodDetectBullshit(isBullshit) {
-  if(isBullshit){
-    return console.log("5.5 jours sur 7");
-  }
- return console.log(isBullshit);
-}
- ```
+### Stage
+### 12/06/2023 au 12/09/2023 :Assistante commerciale au sein de l’entreprise TeamPro sur les taches ci-après :
+  * Demande
+  * Devis
+  * Facture
+  * Enregistrer les commandes
+  * Faire les bons de livraison
+  * Faire les bons pour accord
+  *	Traiter les appels d’offre
+  *	Prospecter et acquérir des nouveaux clients
 
 
-### C'est fini ? Je peux partir ?
+### [Diplôme]
+ * 2020 : MAITRISE en MIAGE à l’université Gamal Abdel Nasser de Conakry
+ * 2019 : LICENCE en MIAGE à l’université Gamal Abdel Nasser de Conakry
+ *	2016 : BACCALAUREAT
+ *	2013 : BEPC
 
-Oui
-> Non 😭
+### Formations
+ * Du 05/02/2019 au 03/05/2019 : Windows server 2008
+ * Du 06/07/2018 au 13/07/2018 : Voix sur IP
+ * Du 02/08/2018 au 28/09/2018 : Maintenance Informatique
+ * Du 27/06/2017 au 27/07/2017 : Windows 8 (Microsoft Word 2010, Microsoft Excel 2010, Microsoft Access 2010, Microsoft Power Point 2010)
 
 
 
-**L'essentiel de mes projets sont détaillés sur mon site avec des explications précises et illustrées.**<br/>
+### Compétences
+  *	Maintenance Informatique
+  *	Sertissage des câbles réseaux
+  * Techniques commerciaux
+
+
 
 <p align="center">
   <br/>
