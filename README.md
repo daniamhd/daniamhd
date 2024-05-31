@@ -4,10 +4,6 @@
 
 ### Je vis à Annecy en Haute-Savoie et je suis développeur web.
 
-<p align="center">
-  <img align="center" width="60%" alt="GIF" src="https://media.giphy.com/media/WvSjK3P8hqGA9AaUgt/giphy.gif"/>
-</p>
-
 ### Pourquoi développeur web et pas astronaute ?
 
 J'ai rapidement été attiré par le développement web et j'ai peur du vide donc... 💨 (naturellement) je me suis dirigé vers le web un mélange de **programmation** et
@@ -23,10 +19,6 @@ function God() {
  return console.log("Sorry, i can do nothing for you.");
 }
 ```
-
-<img align="right" width="55%" alt="GIF" src="https://media.giphy.com/media/jFJW3hOGQgTUk/giphy.gif"></img>
-
-*Sorry, i can do nothing for you.*
 
 **Bon, ok.. d'accord 😕, je l'avoue j'ai tout appris tout seul dans mon coin et alors ?**
   - [x] Personne ne m'oblige à le faire et pourtant je le fais
@@ -64,31 +56,18 @@ Oui
 > Non 😭
 
 
-Je possède aussi une chaine **Youtube** ou je partage mes connaissances sur des questions précises afin d'aider au mieux le plus de monde possible et surtout
-j'essaye de faire en sorte que pour le maximum de personnes cela ne finisse pas par une erreur sur leurs écrans.<br/>
-*(Cela me rappelle vaguement une sensation)*
 
 **L'essentiel de mes projets sont détaillés sur mon site avec des explications précises et illustrées.**<br/>
 
 <p align="center">
   <br/>
-  <a href="mailto:rollet.raphael@gmail.com?subject=Bonjour!">
-    <img alt="rollet.raphael@gmail.com" height="50px" width="50px" src="http://www.rollet-raphael.com/img/gmail.4843bbd3.png"/>
+  <a href="naifadaniamohamed@gmail.com?subject=Bonjour!">
+    <img alt="naifadaniamohamed@gmail.com" height="50px" width="50px" src="(https://mail.google.com/mail/u/0/?pli=1#inbox)"/>
   </a>
-  <a href="https://www.rollet-raphael.com/">
-    <img alt="Mon site web" width="50px" src="https://www.rollet-raphael.com/img/logo.d5820305.png" />
-  </a>
-  <a href="https://www.youtube.com/channel/UCJZkKNgLmASmb9EvLQU2saQ?view_as=subscriber">
-    <img alt="Ma chaine Youtube" width="50px" src="http://www.rollet-raphael.com/img/youtube.94295b9e.png" />
-  </a>
+  
   <a href="https://www.linkedin.com/in/rollet-raphael/">
     <img alt="Linkedin rollet raphael" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" />
   </a>
 </p>
 
-> Oui
-
-<p align="center">
-  <img align="center" width="60%" alt="GIF" src="https://media.giphy.com/media/Lr4RSBQs8k9aCKKtjI/giphy.gif"/>
-</p>
 
