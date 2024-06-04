@@ -33,15 +33,4 @@
 
 
 
-<p align="center">
-  <br/>
-  <a href="naifadaniamohamed@gmail.com?subject=Bonjour!">
-    <img alt="naifadaniamohamed@gmail.com" height="50px" width="50px" src="(https://mail.google.com/mail/u/0/?pli=1#inbox)"/>
-  </a>
-  
-  <a href="https://www.linkedin.com/in/rollet-raphael/">
-    <img alt="Linkedin rollet raphael" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" />
-  </a>
-</p>
-
 
